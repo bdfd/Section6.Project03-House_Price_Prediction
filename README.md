@@ -21,7 +21,8 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 
 ### Project Demo Link - [Click Here](https://car-price-prediction-9dgn.onrender.com/predict/)
-![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png)  
+
+![Car Prediction](https://cdn.jsdelivr.net/gh/bdfd/Section6.Project01-Car_Price_Predictor/predict/static/images/Car_Prediction.png)
 
 **Tools:** Colab/Jupyter Notebook, GitHub
 
@@ -33,7 +34,7 @@ Common Tag: data-science, python, data-visualization, sql, data-analytics, excel
 
 **Package Usage:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Execdata
 
-**Projects:** ABC Project Name  
+**Projects:** ABC Project Name
 
 **Problem Background Description**  
 In our dataset, Total amount of Monthly charges are around 16,056,169$ from that 18% of amount loss around 2862927% Due to the customer churn.
@@ -77,8 +78,11 @@ Deployed in Web using Cloud Platform
 **Run Project Procedure:**
 In this project, First you need to download dataset Telco-Customer-churn.csv Then open your commant prompt and run this code pip install jupyterlab. After pip install requirements.txt all packages are needed in this project are automatically installed on your machine. After Download app.py files and run TelecomCustomerChurn.ipynb files into your machine And some inputs to check our model and Its accuracy of prediction
 
-**Reference:**  
+**Reference:**
+
 <!-- Resource Reference:<a href="https://github.com/krishnaik06/Advanced-House-Price-Prediction-"><Resource Name-Github> Github Reference</a>   -->
+<!-- Resource Reference:<a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data"><Resource Name-Github> Kaggle Dataset Reference</a>   -->
+
 Video Reference:<a href="https://www.youtube.com/watch?v=fPufVcItDzs&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9&index=3"><Resource Name-Youtube> Youtube Video Reference</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Original Dataset.csv</a>  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Processed Dataset.csv</a>  
