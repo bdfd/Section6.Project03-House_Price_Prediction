@@ -1,4 +1,4 @@
-# 3.3-DS_Project_Template
+# Section 6 Project 3 - House Price Prediction
 
 Descritpion Template
 Person Side Project Portfolio. Also included a few resources on side that I found helpful.
